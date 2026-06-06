@@ -6,7 +6,7 @@
 |---|---|---|---|
 | **Yandex ML Challenge 2026. Long Tour · [Описание](https://github.com/mmmaximov/mmkaggle/blob/main/Yandex%20ML%20Challenge%202026.%20LongTour/description%20of%20tasks.md)** | [Long Tour (общий зачёт)](https://github.com/mmmaximov/mmkaggle/tree/main/Yandex%20ML%20Challenge%202026.%20LongTour) | 121 / 630 | 20% |
 | **RWB WildHack · [Описание](https://github.com/mmmaximov/mmkaggle/blob/main/RWB%20Wildhack/description%20of%20tasks%20RWB.md)** | [Отгрузки без простоев (Solo)](https://github.com/mmmaximov/mmkaggle/blob/main/RWB%20Wildhack/WB_SOLO.ipynb) | 125 / 678 | 20% |
-| **RWB WildHack · [Описание](https://github.com/mmmaximov/mmkaggle/blob/main/RWB%20Wildhack/description%20of%20tasks%20RWB.md)** | [Отгрузки без простоев (Solo)](https://github.com/mmmaximov/mmkaggle/blob/main/RWB%20Wildhack/WB_SOLO.ipynb)** | [Автоматизация логистики склада (Team)](https://github.com/mmmaximov/mmkaggle/blob/main/RWB%20Wildhack/WB_TEAM.ipynb) | 35 / 443 | 10% |
+| **RWB WildHack · [Описание](https://github.com/mmmaximov/mmkaggle/blob/main/RWB%20Wildhack/description%20of%20tasks%20RWB.md)** | [Автоматизация логистики склада (Team)](https://github.com/mmmaximov/mmkaggle/blob/main/RWB%20Wildhack/WB_TEAM.ipynb) | 35 / 443 | 10% |
 
 ---
 
